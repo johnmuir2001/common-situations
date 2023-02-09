@@ -10,6 +10,7 @@ const App = () => {
 
   return (
     <>
+      <h1>THIS IS A NEW TAG</h1>
       <input type="text" onChange={ handleInputChange } ></input>
       <p> {inputText} </p>
     </>
